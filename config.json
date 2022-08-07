@@ -1,0 +1,5 @@
+{
+    "admin-password": "password",
+    "redis-connection-url": "redis://127.0.0.1",
+    "cache-duration-seconds": 60.0
+}
