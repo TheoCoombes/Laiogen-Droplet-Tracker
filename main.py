@@ -1,5 +1,5 @@
-from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+from fastapi import FastAPI
 from typing import List
 
 from cache import Cache
